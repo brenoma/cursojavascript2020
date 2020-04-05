@@ -7,7 +7,6 @@
 ## 1. 💻 Descrição do Curso
 
 <details>
-    <sumary>
         Curso de JavaScript Moderno do básico ao avançado 2020
 
         Aprenda Javascript moderno (ES6+) para front-end (com Webpack, babel, React, React Hooks e Redux) e back-end (com Node, Express, MySQL e MongoDB) e se torne um(a) desenvolvedor(a) full stack.
@@ -87,7 +86,6 @@
         Para aqueles que desejam aprender JavaScript Moderno (ES6+) do zero
         Para desenvolvedores experientes que desejam aprimorar seu conhecimento em JS
         Para desenvolvedores que desejam trabalhar com front-end e back-end (fullstack)
-    </sumary>
 </details>
 
 ## 2. 💻 Link de Anotações das Aulas.
